@@ -1,0 +1,25 @@
+{
+  "timerSeconds": 0,
+  "isPaused": false,
+  "finalMessage": "¡Gracias por estar aquí!",
+  "theme": {
+    "alertSound": "/sonidos/alerta.mp3"
+  },
+  "eventSettings": {
+    "twitch": {
+      "enabled": true,
+      "bitSeconds": 50,
+      "subSeconds": 1200,
+      "followSeconds": 0
+    },
+    "tiktok": {
+      "enabled": true,
+      "coinSeconds": 60,
+      "followSeconds": 10
+    },
+    "multiplier": {
+      "enabled": false,
+      "factor": 2
+    }
+  }
+}
