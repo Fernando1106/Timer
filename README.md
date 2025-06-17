@@ -10,7 +10,7 @@ Funciona como un programa ejecutable (`.exe`) que puedes ejecutar directamente e
 
 ## 🛠️ ¿Cómo se usa?
 
-1. **Descarga el ejecutable** desde la sección de _Releases_.
+1. **Descarga el ejecutable** desde la sección de [Releases](https://github.com/Fernando1106/Timer/releases/tag/v1.1-apha).
 2. **Ejecuta el archivo `.exe`**. Verás el timer en una ventana emergente.
 3. En **OBS**, agrega una **fuente de ventana** o **navegador** para capturar el overlay.
 4. Configura el tiempo inicial, el multiplicador y más (en el interfaz).
