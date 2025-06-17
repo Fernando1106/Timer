@@ -13,7 +13,7 @@ Funciona como un programa ejecutable (`.exe`) que puedes ejecutar directamente e
 1. **Descarga el ejecutable** desde la sección de _Releases_.
 2. **Ejecuta el archivo `.exe`**. Verás el timer en una ventana emergente.
 3. En **OBS**, agrega una **fuente de ventana** o **navegador** para capturar el overlay.
-4. Configura el tiempo inicial, el multiplicador y más (si el programa incluye interfaz o archivo de configuración).
+4. Configura el tiempo inicial, el multiplicador y más (en el interfaz).
 5. ¡Empieza tu stream y deja que el timer haga su magia!
 
 ---
@@ -23,7 +23,6 @@ Funciona como un programa ejecutable (`.exe`) que puedes ejecutar directamente e
 - ⏳ **Cuenta regresiva** visible con formato extendido: `Días : Horas : Minutos : Segundos`.
 - ⚡ **Multiplicador de tiempo automático** cuando queda poco (ideal para subathons).
 - 🎬 **Tiempo inicial personalizado** (por ejemplo: iniciar con 6h).
-- 🎨 **Estilo gamer/oscuro** perfecto para overlays modernos.
 - 🔔 **Integración planeada con eventos de Twitch y TikTok** (seguidores, subs, bits, monedas).
 
 ---
@@ -34,10 +33,10 @@ Funciona como un programa ejecutable (`.exe`) que puedes ejecutar directamente e
 Sí. Puedes capturar el timer como **fuente de ventana** o como **fuente de navegador** si se ejecuta en un servidor local.
 
 ### ¿Cómo configuro el tiempo inicial o el multiplicador?
-Actualmente, puede configurarse desde una ventana al iniciar (o mediante un archivo `.env` o `.json`, si se incluye). Más opciones de personalización están en desarrollo.
+Actualmente, puede configurarse desde su propia pagina que viene en .exe. Más opciones de personalización están en desarrollo.
 
 ### ¿Se puede usar en Twitch y TikTok al mismo tiempo?
-Sí, el timer está pensado para funcionar como overlay independiente del servicio, por lo que es compatible con cualquier plataforma.
+Sí, el timer está pensado para funcionar como overlay independiente del servicio, por lo que es compatible con cualquiera de las dos plataforma.
 
 ---
 
