@@ -20,10 +20,13 @@ Funciona como un programa ejecutable (`.exe`) que puedes ejecutar directamente e
 
 ## 🧩 Características principales
 
-- ⏳ **Cuenta regresiva** visible con formato extendido: `Días : Horas : Minutos : Segundos`.
-- ⚡ **Multiplicador de tiempo automático** cuando queda poco (ideal para subathons).
-- 🎬 **Tiempo inicial personalizado** (por ejemplo: iniciar con 6h).
-- 🔔 **Integración planeada con eventos de Twitch y TikTok** (seguidores, subs, bits, monedas).
+- 🎨 **Personalización en vivo** de colores y estilos.
+- 🔊 **Sonidos de alerta** configurables.
+- 📈 **Barra de progreso dinámica** que cambia de color según el tiempo restante.
+- ⚙️ **Panel de administración** para iniciar, pausar, reiniciar o añadir tiempo manualmente.
+- 🪙 **Integración con eventos** de Twitch (bits, subs) y TikTok (monedas, follows).
+- 🔁 **Multiplicador de tiempo** para eventos especiales.
+- 💾 **Persistencia** de estado y configuración, incluso si reinicias el servidor.
 
 ---
 
