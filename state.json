@@ -1,9 +1,12 @@
 {
-  "timerSeconds": 0,
+  "timerSeconds": 26701,
   "isPaused": false,
   "finalMessage": "¡Gracias por estar aquí!",
   "theme": {
-    "alertSound": "/sonidos/alerta.mp3"
+    "timerColor": "#fafafa",
+    "barHigh": "#10f500",
+    "barMid": "#ccf500",
+    "barLow": "#ff0000"
   },
   "eventSettings": {
     "twitch": {
@@ -17,9 +20,16 @@
       "coinSeconds": 60,
       "followSeconds": 10
     },
+    "kick": {
+      "enabled": true,
+      "coinSeconds": 10,
+      "subSeconds": 20,
+      "followSeconds": 30
+    },
     "multiplier": {
       "enabled": false,
       "factor": 2
     }
-  }
+  },
+  "sessionCap": 26978
 }
